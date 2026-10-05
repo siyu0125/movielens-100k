@@ -1,0 +1,10 @@
+.venv/
+venv/
+.claude/
+data/
+ml-100k/
+*.zip
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.env
